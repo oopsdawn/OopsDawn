@@ -3,3 +3,8 @@
 	font-family: Monaco, "Courier New";
 	font-size: 80%;
 }
+.img-responsive {
+  display: inline-block;
+  height: auto;
+  max-width: 100%;
+}
