@@ -1,4 +1,4 @@
-.title_date{
+.title-date{
 	color: #aaa;
 	font-family: Monaco, "Courier New";
 	font-size: 80%;
@@ -7,4 +7,12 @@
 	display: inline-block;
 	height: auto;
 	width: 100%;
+}
+.top{
+	position: relative;
+	background-position: center;
+	background-size: cover;
+	margin: 0 0 35px;
+	text-align: center;
+	transition: .8s;
 }
