@@ -1,6 +1,6 @@
 这是[OopsDawn](http://www.oopsdawn.com)。
 
-感谢你的阅读，希望OopsDawn能够为你提供一些帮助，欢迎交流反馈。
+感谢阅读，希望OopsDawn能够为你提供一些帮助，欢迎交流反馈。
 
 邮箱：oopsdawn@gmail.com
 
